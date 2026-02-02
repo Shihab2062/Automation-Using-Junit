@@ -66,7 +66,7 @@ Test Data: **A sample file (e.g., sample.pdf or image.png) under 2MB for the upl
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Shihab2062/Automation-Using-Junit.git
 ```
 
 ### Configure Build Path:
@@ -81,4 +81,3 @@ git clone https://github.com/your-username/your-repo-name.git
 
 **Right-click ScrapData.java -> Run as Java Application/Test.**
 
-##  Results & Reporting
