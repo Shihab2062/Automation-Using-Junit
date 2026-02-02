@@ -2,14 +2,14 @@
 
 **This project contains a series of automated test cases and data extraction scripts developed using Java, Selenium WebDriver, and JUnit.** It demonstrates proficiency in handling complex web elements, file uploads, synchronization, and data persistence.
 
-## 🚀 Project Overview
+## Project Overview
 ## The suite is divided into two core automation tasks:
 
 **Webform Automation (Digital Unite):** A complete end-to-end test for a multi-input webform, including file upload handling and success message validation.
 
 **Web Scraping (DSEBD):** A data extraction script that scrapes live stock market data, processes it, and exports it to a structured text file.
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 **Before running the scripts, ensure you have the following installed and configured:**
 
@@ -25,7 +25,7 @@ Browser Drivers: **ChromeDriver or GeckoDriver (Firefox) matching your browser v
 
 Test Data: **A sample file (e.g., sample.pdf or image.png) under 2MB for the upload test.**
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── src/test/java/
@@ -37,7 +37,7 @@ Test Data: **A sample file (e.g., sample.pdf or image.png) under 2MB for the upl
 └── README.md                   # Project documentation
 ```
 
-## 📝 Implementation Details
+## Implementation Details
 
 ### 1. Webform Automation
 
@@ -67,7 +67,7 @@ Test Data: **A sample file (e.g., sample.pdf or image.png) under 2MB for the upl
 <img width="3840" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/88c97d58-b9a8-491f-a9e7-0f6b6e7308fd" />
 
 
-## ⚙️ Setup & Execution
+## Setup & Execution
 
 ### Clone the Repository:
 
