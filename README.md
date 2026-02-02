@@ -81,25 +81,4 @@ git clone https://github.com/your-username/your-repo-name.git
 
 **Right-click ScrapData.java -> Run as Java Application/Test.**
 
-## 📤 Upload to GitHub
-
-**To upload this project to GitHub, follow these steps:**
-
-1. **Create a GitHub repository** at https://github.com/new
-2. **Initialize git in your local project:**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Selenium Automation & Web Scraping Suite"
-   ```
-3. **Add remote repository:**
-   ```bash
-   git remote add origin https://github.com/your-username/your-repo-name.git
-   ```
-4. **Push to GitHub:**
-   ```bash
-   git branch -M main
-   git push -u origin main
-   ```
-
-## 📊 Results & Reporting
+##  Results & Reporting
